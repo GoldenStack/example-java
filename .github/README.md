@@ -4,8 +4,6 @@
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=for-the-badge)](https://github.com/RichardLitt/standard-readme)
 [![javadocs](https://img.shields.io/badge/documentation-javadocs-4d7a97?style=for-the-badge)](https://javadoc.jitpack.io/com/github/GoldenStack/example-java/master-SNAPSHOT/javadoc/)
 
-[![Release](https://jitpack.io/v/GoldenStack/example-java.svg)](https://jitpack.io/#GoldenStack/example-java)
-
 Description goes here
 
 ## Table of Contents
