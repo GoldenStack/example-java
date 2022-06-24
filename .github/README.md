@@ -4,7 +4,9 @@
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=for-the-badge)](https://github.com/RichardLitt/standard-readme)
 [![javadocs](https://img.shields.io/badge/documentation-javadocs-4d7a97?style=for-the-badge)](https://javadoc.jitpack.io/com/github/GoldenStack/example-java/master-SNAPSHOT/javadoc/)
 
-Description goes here
+This is a personal example project meant to make it easier to create other projects.
+
+WARNING: This is only set up for single-module projects.
 
 ## Table of Contents
 - [Install](#install)
