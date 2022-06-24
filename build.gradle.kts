@@ -30,3 +30,11 @@ dependencies {
 tasks.getByName<Test>("test") {
     useJUnitPlatform()
 }
+
+publishing {
+    publications {
+        @Suppress("UNUSED_VARIABLE") val mavenJava by creating(MavenPublication::class) {
+            from(components["java"])
+        }
+    }
+}
