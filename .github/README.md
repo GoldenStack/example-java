@@ -41,6 +41,7 @@ Feel free to open a PR or an issue.
 Before starting large PRs, make sure to check that it's actually needed; try asking a maintainer.
 
 Before a PR is merged, all contributors must sign the [DCO](https://developercertificate.org/).
+We use [cla-assistant](https://github.com/cla-assistant/cla-assistant) to verify this.
 
 ## License
 
