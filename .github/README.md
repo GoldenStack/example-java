@@ -32,7 +32,10 @@ dependencies {
 
 ## Usage
 
-The usage would go here
+This is meant for personal use, so it's not intended for anyone else to work with it.
+
+However, to set it up, all you really need to do is copy the files, change this README to be accurate, and add it to
+[cla-assistant](https://cla-assistant.io/).
 
 ## Contributing
 
